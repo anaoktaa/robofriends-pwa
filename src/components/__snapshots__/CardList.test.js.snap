@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect to render card list 1`] = `
+<CardList
+  robots={
+    Array [
+      Object {
+        "email": "john@gmail.com",
+        "id": 1,
+        "name": "John Snow",
+        "username": "johnsnow",
+      },
+    ]
+  }
+/>
+`;
